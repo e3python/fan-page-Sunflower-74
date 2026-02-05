@@ -1,0 +1,16 @@
+/* 3) Add the class and rule set */
+/* 4) Add properties to each rule set to style each ghost's image, heading and paragraph differently */
+body {
+background-color: rgb(147, 48, 48);
+    font-family: Monaco;
+
+}
+.Marvel{
+  border: dashed 3px;
+  border-color: rgb(75, 144, 193);
+  border-radius: 1px;
+ color: rgb(0, 0, 0);
+    font-family: Consolas, "Courier New", monospace;
+ background-color: rgb(255, 255, 255);
+ width: 400px;
+}
